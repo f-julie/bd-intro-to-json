@@ -1,2 +1,6 @@
+com/bloomtech/OpenLibraryResponse.java
+ com.bloomtech.OpenLibraryResponse
 com/bloomtech/JSON.java
  com.bloomtech.JSON
+com/bloomtech/Book.java
+ com.bloomtech.Book
